@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "ToYou",
+    introTitle: 'Đây là tin nhắn tự động gửi cho Quang Nhật',
+    introDesc: `Nhấn tiếp tục nếu bạn là anh ấy`,
+    btnIntro: 'Tiếp tục',
+    title: 'Người mà Thanh Trang thấy dễ thương nhất',
+    desc: 'Đố bít ai lun á :))',
+    btnYes: 'Khác',
+    btnNo: 'Quang Nhật',
+    question: 'Thật ra người đáng iu là',
+    btnReply: 'Tiếp tục',
+    reply: 'Thanh Trang á',
+    mess: 'Tui bít mà hehe',
+    messDesc: 'Ngủ ngon nhaaaaa ',
+    btnAccept: 'Okiiiii',
+    messLink: 'https://www.facebook.com/messages/t/100009609468034' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
